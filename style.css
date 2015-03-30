@@ -5,3 +5,7 @@ p{color: green}
 body{
 background: pink;
 }
+span{
+	text-decoration: underline;
+	color: blue;
+}
